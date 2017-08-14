@@ -1,0 +1,11 @@
+# See parameter documetation inside ../manifests/single_node_ci.pp
+# Fields commented out have reasonable default values
+domain: 10.77.210.35
+jenkins_ssh_public_key: AAAAB3NzaC1yc2EAAAADAQABAAABAQDHOzKnHwV2iPcCngN6Rrwqn7l2aa/s8bYFZITQVajvD4l8s1CtbPp28kVYkwvJJ786umYkHpE5cWKciWSzXhl1XsZGDoEM7727lbN8WUwwMX4La/vmch6ey4CSfx9M3BWanC/1hzCb/yKOt6sdvaLEq1QJXL7mPV+ZiFO0+OzrmU6vNa7ilmXTic8JxMHoKmFQ0POQKQPDszs+e8TBYI7qlrvN98QtDVWnhY3dP2BGgEJG4J51nwPnCWfi/jpGOImM1f0Zna5Uw6j4UQH562mDkdRtCLaM8nDXX7bdvi1EP2l2/KAXT8XegHvMQTbipwWzmvxtlJUmdTx6SRZ2WNwh
+#swift_authurl:
+#swift_user:
+#swift_key:
+#swift_tenant_name:
+#swift_region_name:
+#swift_default_container:
+
